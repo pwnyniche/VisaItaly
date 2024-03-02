@@ -65,8 +65,8 @@ def updateCookies():
             "User-Agent":fake_useragent.UserAgent().random #"Mozilla/5.0 (X11; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0"# fake_useragent.UserAgent().random
         }
         authData = {
-                "Email": "Dzmitry_Khilko@epam.com",
-                "Password": "myBelarus1"
+                "Email": "...",
+                "Password": "..."
         }
 
         session      = requests.Session()
